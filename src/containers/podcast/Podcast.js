@@ -1,6 +1,6 @@
 import React from "react";
 import "./Podcast.css";
-import { podcastSection } from "../../portfolio";
+import { podcastSection } from "../../config/index.js";
 
 export default function Podcast() {
   return (

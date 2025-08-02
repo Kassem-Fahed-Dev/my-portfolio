@@ -19,7 +19,7 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Bashar Fahed",
+  title: "K Fahed",
   logo_name: "BasharFahed",
   nickname: "layman_brother",
   subTitle:

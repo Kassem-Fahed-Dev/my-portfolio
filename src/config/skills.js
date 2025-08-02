@@ -1,237 +1,152 @@
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
-        },
-      ],
-    },
-    {
-      title: "Full Stack Development",
+      title: "Backend Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building RESTful APIs using Node.js, Express, and Laravel (PHP)",
+        "⚡ Implementing secure authentication using JWT, bcrypt, and OTP",
+        "⚡ Structuring scalable backend systems for auction and social platforms",
+        "⚡ Handling data modeling, validation, and access control in MongoDB and SQL",
       ],
       softwareSkills: [
         {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26",
-          },
-        },
-        {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6",
-          },
-        },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
-        },
-        {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
-        },
-        {
           skillName: "NodeJS",
-          fontAwesomeClassname: "devicon-plain:nodejs-wordmark",
-          style: {
-            color: "#339933",
-          },
+          fontAwesomeClassname: "logos-nodejs",
+          style: { color: "#339933" },
         },
         {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
+          skillName: "ExpressJS",
+          fontAwesomeClassname: "simple-icons:express",
+          style: { color: "#000000" },
         },
         {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
+          skillName: "PHP",
+          fontAwesomeClassname: "simple-icons:php",
+          style: { color: "#777BB4" },
         },
         {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
+          skillName: "Laravel",
+          fontAwesomeClassname: "simple-icons:laravel",
+          style: { color: "#FF2D20" },
         },
         {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
+          skillName: "JWT",
+          fontAwesomeClassname: "simple-icons:jsonwebtokens",
+          style: { color: "#000000" },
+        },
+        {
+          skillName: "Mongoose",
+          fontAwesomeClassname: "simple-icons:mongodb",
+          style: { color: "#47A248" },
         },
       ],
     },
     {
-      title: "Cloud Infra-Architecture",
-      fileName: "CloudInfraImg",
+      title: "System Design & Architecture",
+      fileName: "DesignImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Designing modular backend systems using MVC architecture",
+        "⚡ Implementing role-based access control and scalable route structures",
+        "⚡ Creating workflows like auction state management with cron jobs",
+        "⚡ Integrating multi-language support and wallet/transaction modules",
       ],
       softwareSkills: [
         {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
+          skillName: "REST API Design",
+          fontAwesomeClassname: "simple-icons:apachesuperset",
+          style: { color: "#000000" },
         },
         {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
+          skillName: "MVC Architecture",
+          fontAwesomeClassname: "simple-icons:spring",
+          style: { color: "#6DB33F" },
         },
         {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6",
-          },
+          skillName: "JWT Auth",
+          fontAwesomeClassname: "simple-icons:jsonwebtokens",
+          style: { color: "#000000" },
         },
         {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
+          skillName: "Bcrypt",
+          fontAwesomeClassname: "simple-icons:nodedotjs",
+          style: { color: "#339933" },
+        },
+        {
+          skillName: "Cron Jobs",
+          fontAwesomeClassname: "simple-icons:linux",
+          style: { color: "#FCC624" },
+        },
+      ],
+    },
+    {
+      title: "Database & DevOps",
+      fileName: "CloudInfraImg",
+      skills: [
+        "⚡ Working with both relational and NoSQL databases: MySQL, PostgreSQL, and MongoDB",
+        "⚡ Writing efficient queries and enforcing data integrity",
+        "⚡ Deploying and testing apps on Render, Railway, and Linux environments",
+        "⚡ Using Docker for containerized app deployment and local development",
+      ],
+      softwareSkills: [
+        {
+          skillName: "MySQL",
+          fontAwesomeClassname: "simple-icons:mysql",
+          style: { color: "#00758F" },
         },
         {
           skillName: "PostgreSQL",
           fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
+          style: { color: "#336791" },
         },
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
+          style: { color: "#47A248" },
         },
         {
           skillName: "Docker",
           fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
+          style: { color: "#1488C6" },
         },
         {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
-          },
+          skillName: "Linux",
+          fontAwesomeClassname: "simple-icons:linux",
+          style: { color: "#FCC624" },
+        },
+        {
+          skillName: "Git",
+          fontAwesomeClassname: "simple-icons:git",
+          style: { color: "#F05032" },
         },
       ],
     },
     {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
+      title: "Programming & Problem Solving",
+      fileName: "DataScienceImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Solved 900+ problems on Codeforces, focusing on algorithms and data structures",
+        "⚡ Strong command of C++, Python, Java, and object-oriented programming",
+        "⚡ Experience in competitive programming (ICPC participant)",
       ],
       softwareSkills: [
         {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
+          skillName: "C++",
+          fontAwesomeClassname: "simple-icons:cplusplus",
+          style: { color: "#00599C" },
         },
+            {
+      skillName: "Codeforces",
+      fontAwesomeClassname: "simple-icons:codeforces",
+      style: {
+        color: "#1F8ACB",
+      }},
         {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E",
-          },
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
+          style: { color: "#3776AB" },
         },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
-          },
-        },
+
       ],
     },
   ],

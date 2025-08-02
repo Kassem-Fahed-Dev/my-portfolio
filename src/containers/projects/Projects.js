@@ -4,7 +4,7 @@ import { gql } from "apollo-boost";
 import "./Project.css";
 import GithubRepoCard from "../../components/githubRepoCard/GithubRepoCard";
 import Button from "../../components/button/Button";
-import { openSource } from "../../portfolio";
+import { openSource } from "../../config/index.js";
 import { greeting } from "../../config/index.js";
 
 export default function Projects() {

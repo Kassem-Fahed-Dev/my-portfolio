@@ -6,8 +6,8 @@ import Educations from "../../containers/education/Educations";
 import Certifications from "../../containers/certifications/Certifications";
 import CompetitiveSites from "../../components/competitiveSites/CompetitiveSites";
 import EducationImg from "./EducationImg";
-import { competitiveSites } from "../../portfolio";
-import { certifications } from "../../portfolio";
+import { competitiveSites } from "../../config/index.js";
+import { certifications } from "../../config/index.js";
 import "./EducationComponent.css";
 import { Fade } from "react-reveal";
 
