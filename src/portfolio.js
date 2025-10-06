@@ -7,7 +7,7 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Kassem's Portfolio",
   description:
     "Software Engineer with 2+ years of experience building scalable backend systems using Node.js and Express. Strong problem solver with 900+ Codeforces solutions and experience in REST APIs and real-time applications.",
   og: {
