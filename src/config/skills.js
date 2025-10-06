@@ -4,10 +4,11 @@ const skills = {
       title: "Backend Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building RESTful APIs using Node.js, Express, and Laravel (PHP)",
-        "⚡ Implementing secure authentication using JWT, bcrypt, and OTP",
-        "⚡ Structuring scalable backend systems for auction and social platforms",
-        "⚡ Handling data modeling, validation, and access control in MongoDB and SQL",
+        "⚡ Building high-performance and scalable RESTful APIs using Node.js and Express",
+        "⚡ Implementing secure authentication and authorization with JWT, bcrypt, and OTP",
+        "⚡ Designing efficient database schemas, validation logic, and access control for MongoDB and SQL",
+        "⚡ Integrating third-party services such as payment gateways, email systems, and notifications",
+        "⚡ Optimizing backend performance with caching, pagination, and query optimization",
       ],
       softwareSkills: [
         {
@@ -46,10 +47,11 @@ const skills = {
       title: "System Design & Architecture",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing modular backend systems using MVC architecture",
-        "⚡ Implementing role-based access control and scalable route structures",
-        "⚡ Creating workflows like auction state management with cron jobs",
-        "⚡ Integrating multi-language support and wallet/transaction modules",
+        "⚡ Designing clean and modular backend structures using MVC and layered architecture patterns",
+        "⚡ Implementing role-based access control and organized route handling for scalable APIs",
+        "⚡ Applying basic system design concepts like load distribution, caching, and asynchronous tasks",
+        "⚡ Creating scheduled background jobs using cron and worker queues for automated workflows",
+        "⚡ Structuring codebases for better maintainability, readability, and collaboration across teams",
       ],
       softwareSkills: [
         {
@@ -83,10 +85,11 @@ const skills = {
       title: "Database & DevOps",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Working with both relational and NoSQL databases: MySQL, PostgreSQL, and MongoDB",
-        "⚡ Writing efficient queries and enforcing data integrity",
-        "⚡ Deploying and testing apps on Render, Railway, and Linux environments",
-        "⚡ Using Docker for containerized app deployment and local development",
+        "⚡ Managing both relational and NoSQL databases including MySQL, PostgreSQL, and MongoDB",
+        "⚡ Writing optimized queries, managing indexing, and ensuring data consistency and reliability",
+        "⚡ Deploying, monitoring, and maintaining applications on Render, Railway, and Linux servers",
+        "⚡ Using Docker for containerization, version control, and streamlined CI/CD workflows",
+        "⚡ Automating build and deployment pipelines to improve scalability and reduce downtime",
       ],
       softwareSkills: [
         {
@@ -125,9 +128,10 @@ const skills = {
       title: "Programming & Problem Solving",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Solved 900+ problems on Codeforces, focusing on algorithms and data structures",
-        "⚡ Strong command of C++, Python, Java, and object-oriented programming",
-        "⚡ Experience in competitive programming (ICPC participant)",
+        "⚡ Solved 900+ algorithmic problems on Codeforces and other competitive platforms",
+        "⚡ Strong command of C++, JS, and Java with deep understanding of data structures and algorithms",
+        "⚡ Experienced in competitive programming and participated in ICPC regional contests",
+        "⚡ Writing optimized, efficient, and clean code under time and complexity constraints",
       ],
       softwareSkills: [
         {
@@ -135,18 +139,16 @@ const skills = {
           fontAwesomeClassname: "simple-icons:cplusplus",
           style: { color: "#00599C" },
         },
-            {
-      skillName: "Codeforces",
-      fontAwesomeClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      }},
+        {
+          skillName: "Codeforces",
+          fontAwesomeClassname: "simple-icons:codeforces",
+          style: { color: "#1F8ACB" },
+        },
         {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
           style: { color: "#3776AB" },
         },
-
       ],
     },
   ],

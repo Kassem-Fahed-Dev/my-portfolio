@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Ashutosh's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable systems to create impact.",
+    "Software Engineer with 2+ years of experience building scalable backend systems using Node.js and Express. Strong problem solver with 900+ Codeforces solutions and experience in REST APIs and real-time applications.",
   og: {
     title: "Ashutosh Hathidara Portfolio",
     type: "website",
@@ -21,9 +21,8 @@ const seo = {
 const greeting = {
   title: "K Fahed",
   logo_name: "BasharFahed",
-  nickname: "layman_brother",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable systems to create impact.",
+    "Software Engineer with 2+ years of experience building scalable backend systems using Node.js and Express. Strong problem solver with 900+ Codeforces solutions and experience in REST APIs and real-time applications.",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
@@ -728,12 +727,12 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I’m always open to new opportunities, collaborations, or just a friendly chat. Feel free to reach out via WhatsApp, email, or LinkedIn  I’d love to connect!",
   },
   blogSection: {
-    title: "Blogs",
+    title: "",
     subtitle:
-      "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
+      "Let’s turn ideas into reality. I’m available for projects, collaborations, or brainstorming new solutions.",
     link: "https://blogs.ashutoshhathidara.com/",
     avatar_image_path: "blogs_image.svg",
   },
