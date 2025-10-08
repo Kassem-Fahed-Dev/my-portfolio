@@ -2,10 +2,18 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
+      "name": "Ai-Based React Builder",
+      "createdAt": "2025-10-1",
       "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "description": [
+        "AI-Powered Prototyping: Create responsive React projects via user prompts with real-time editing.",
+        "Multi-Agent AI Integration: Connects multiple AI models for website creation.",
+        "Project Management: Manage, retrieve, and edit multiple projects.",
+        "Version Control: Save, revert, or continue from any previous version.",
+        "Live Preview: Real-time sandbox for instant feedback.",
+        "Stripe Subscription System: Manages plans, payments, and user billing.",
+        "Admin Dashboard: Manage users, projects, and payments."
+      ],
       "isFork": false,
       "languages": [
         {
@@ -24,10 +32,16 @@
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
+      "name": "WhatsApp Management System ",
+      "createdAt": "2024-03-13",
       "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "description": [
+        "Built a scalable platform for managing multiple WhatsApp accounts with independent sessions and persistent storage.",
+        "Developed secure login system using JWT and role-based access control.",
+        "Smart chatbots, auto-replies, and drag-and-drop flow builder for complex conversation scenarios.",
+        "Import/export via Excel, categorize contacts, and send bulk or scheduled messages.",
+        "Delivered analytics dashboard and downloadable chat history export."
+      ],
       "isFork": false,
       "languages": [
         {
@@ -38,10 +52,18 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
+      "name": "Auction & Tender Platform",
+      "createdAt": "2025-06-10",
       "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+     "description": [
+  "Developed full-featured auction and tender platform with modular RESTful APIs.",
+  "Secure account management (JWT), password reset, and email/WhatsApp notifications.",
+  "Enabled creating, browsing, participating, and paying fees for auctions/tenders; non-winners get refunds.",
+  "Implemented wallet system with deposit/withdrawal and activity tracking.",
+  "Added filtering, favorites, and user-specific views.",
+  "Developed admin dashboard for managing auctions, tenders, users, wallet, and analytics.",
+  "Hosted backend and supported image uploads to external storage."
+],
       "isFork": false,
       "languages": [
         {
@@ -64,10 +86,18 @@
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
+      "name": "Twitter Clone Project ",
+      "createdAt": "2023-02-11T14:50:20Z",
       "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "description": [
+  "Developed a Twitter-like application using Laravel and Bootstrap with MVC architecture.",
+  "Implemented responsive design for seamless use across devices.",
+  "Added search and explore functionality to discover users and content.",
+  "Enabled profile management, followers/following, and user timelines.",
+  "Implemented tweeting, notifications, and user authentication with email verification.",
+  "Applied permissions, rules, and role-based access to secure features."
+]
+,
       "isFork": false,
       "languages": [
         {
@@ -87,38 +117,7 @@
           "iconifyClass": "logos-javascript"
         }
       ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        }
-      ]
     }
+    
   ]
 }

@@ -2,7 +2,7 @@
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects reflect my passion for backend development and modern technologies. Using Node.js, Express ,, and Laravel, I integrate databases, AI models,third-party services and payment systems to create smart and secure applications.",
   avatar_image_path: "projects_image.svg",
 };
 

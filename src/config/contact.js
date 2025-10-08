@@ -2,7 +2,7 @@
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "logo2.png",
+    profile_image_path: "logo2.webp",
     description:
       "I’m always open to new opportunities, collaborations, or just a friendly chat. Feel free to reach out via WhatsApp, email, or LinkedIn  I’d love to connect!",
   },
