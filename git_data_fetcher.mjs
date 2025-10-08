@@ -289,7 +289,7 @@ fetch(baseUrl, {
 
     console.log("Fetching the Pinned Projects Data.\n");
     fs.writeFile(
-      "./src/shared/opensource/projects.json",
+      "./src/shared/opensource/projects.js",
       JSON.stringify(newProjects),
       function (err) {
         if (err) {

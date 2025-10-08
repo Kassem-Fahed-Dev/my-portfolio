@@ -2,7 +2,7 @@
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects reflect my passion for backend development and modern technologies. Using Node.js, Express ,, and Laravel, I integrate databases, AI models,third-party services and payment systems to create smart and secure applications.",
+    "My projects showcase a deep passion for backend development. I build smart, secure, and scalable applications by integrating databases, AI models, third-party services, and payment systems using Node.js, Express, and Laravel.",
   avatar_image_path: "projects_image.svg",
 };
 

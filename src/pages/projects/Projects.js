@@ -12,7 +12,7 @@ import {
   publicationsHeader,
   publications,
 } from "../../config/index.js";
-import ProjectsData from "../../shared/opensource/projects.json";
+import ProjectsData from "../../shared/opensource/projects.js";
 import "./Projects.css";
 import ProjectsImg from "./ProjectsImg";
 
