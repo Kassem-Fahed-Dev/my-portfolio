@@ -6,7 +6,7 @@ const seo = {
   og: {
     title: "Kassem Fahed Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "",
   },
 };
 
