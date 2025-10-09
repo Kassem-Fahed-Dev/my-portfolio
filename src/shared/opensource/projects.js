@@ -1,8 +1,8 @@
 // Import images
-import dataScienceImg from "../../assets/images/data_science.svg";
-import whatsappImg from "../../assets/images/ui_ux_design.svg";
-import auctionImg from "../../assets/images/manOnTable.svg";
-import twitterImg from "../../assets/images/programmer.svg";
+import dataScienceImg from "../../assets/images/project1.png";
+import whatsappImg from "../../assets/images/project2.png";
+import auctionImg from "../../assets/images/project3.jpg";
+import twitterImg from "../../assets/images/project4.jpg";
 
 const projects = {
   data: [
@@ -10,7 +10,7 @@ const projects = {
       id: "R_kgDOJWL0-g",
       name: "Ai-Based React Builder",
       createdAt: "2025-10-1",
-      url: "https://github.com/ashutosh1919/mdp-diffusion",
+      url: "",
       coverImage: dataScienceImg,
       description: [
         "AI-Powered Prototyping: Create responsive React projects via user prompts with real-time editing.",
@@ -45,7 +45,7 @@ const projects = {
       id: "R_kgDOG_vYHA",
       name: "WhatsApp Management System",
       createdAt: "2024-03-13",
-      url: "https://github.com/ashutosh1919/explainable-cnn",
+      url: "https://drive.google.com/file/d/1YZDViYuJJHBDmxqvIZ_T93yej-PFa3DR/view?usp=sharing",
       coverImage: whatsappImg,
       description: [
         "Built a scalable platform for managing multiple WhatsApp accounts with independent sessions and persistent storage.",
@@ -76,17 +76,17 @@ const projects = {
           name: "Redis",
           iconifyClass: "logos-redis"
         },
-        {
-          name: "Docker",
-          iconifyClass: "logos-docker-icon"
-        }
+        // {
+        //   name: "Docker",
+        //   iconifyClass: "logos-docker-icon"
+        // }
       ]
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       name: "Auction & Tender Platform",
       createdAt: "2025-06-10",
-      url: "https://github.com/ashutosh1919/masterPortfolio",
+      url: "https://drive.google.com/file/d/1MK8u81w-0DoZzNAudVfSwnsLQFiXUtRF/view?usp=sharing",
       coverImage: auctionImg,
       description: [
         "Developed full-featured auction and tender platform with modular RESTful APIs.",
@@ -121,7 +121,7 @@ const projects = {
       id: "R_kgDOG0_8uQ",
       name: "Twitter Clone Project",
       createdAt: "2023-02-11T14:50:20Z",
-      url: "https://github.com/ashutosh1919/react-awesome-shapes",
+      url: "https://drive.google.com/file/d/1p3YLYIBbGYJ5t-GTi_Uf48hKIh5nOScH/view?usp=sharing",
       coverImage: twitterImg,
       description: [
         "Developed a Twitter-like application using Laravel and Bootstrap with MVC architecture.",
